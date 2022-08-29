@@ -1,6 +1,6 @@
 # Hello Welcome!
 
-### Demo : [HELLOSATYAJI](https://hellosatyaji.netlify,com/)
+### Demo : [HELLOSATYAJI](https://hellosatyaji.netlify.com/)
 
 ## Available Scripts
 
