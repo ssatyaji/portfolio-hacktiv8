@@ -1,3 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap");
+
+* {
+  list-style-type: none;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.09em;
+}
+
+a > p {
+  font-size: 0.9em;
+  font-weight: 600;
+  letter-spacing: -1px;
+  color: #fff;
+}
+
+.section > h1 {
+  font-size: 90px;
+  font-weight: 800;
+}
+
+.section > p, .experience > h3, .experience > p {
+  font-weight: 300;
+}
+
+.experience > h3 {
+  font-size: 1.1em;
+  font-weight: 700;
+}
+
+.date-exp > p {
+  font-size: 25px;
+  font-weight: 800;
+}
+
+.fa-circle-check {
+  color: #16a085;
+}
+
+.certificate > ul > li {
+  font-size: 31px;
+}
+
+.fa-certificate {
+  color: #f1c40f;
+}
+
+body {
+  position: relative;
+}
+
+.bg {
+  background-color: #043b5c;
+}
+
+.nav > .active {
+  color: #303030 !important;
+}
+
+.nav-link {
+  padding: 0 !important;
+}
+
+.active > p {
+  color: #f1c40f;
+}
+
 .App {
   text-align: center;
 }
